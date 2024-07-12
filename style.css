@@ -8,7 +8,7 @@ body {
   font-style: normal;
   font-variation-settings: "slnt" 0;
   background-color: #fff8ea;
-  background-image: url("/assets/riverview.jpeg");
+  background-image: url("https://i.imgur.com/PPQSgMO.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
@@ -330,7 +330,7 @@ a {
   }
 
   body {
-    background-image: url("/assets/riverview_mobile.png");
+    background-image: url("https://i.imgur.com/mJ8Jfni.png");
     height: 110vh;
   }
 }
